@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Beth 👋
 
-<!--
-**BethW83/BethW83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I've recently completed the Code Institute's Data Analysis with AI Bootcamp 🥳
 
 - 🔭 I’m currently working on ... revisiting my first ever project and adding dashboards (Healthcare Insurance Cost Analysis)
 - 🌱 I’m currently learning ... SQL and brushing up on Tableau, then starting MSE's Academy of Money course with the Open University 
@@ -12,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... anything, I love to chat :-) 
 - 📫 How to reach me ... https://www.linkedin.com/in/beth-louise-williams/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... we have four spiders (two tarantulas) as pets 🕷️🕷️🕷️🕷️
+
